@@ -1,6 +1,6 @@
 # mythic-hud
 
-make sure you biuld in the UI folder 
+make sure you build in the UI folder 
 
 npm install 
 
